@@ -1,6 +1,6 @@
 {
 	"ip":"playzwithalex.aternos.me",
 	"port": "40559",
-	"name": "afkbot1",
+	"name": "bot",
 	"auto-night-skip":"true"
 }
